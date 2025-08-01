@@ -1,0 +1,11 @@
+/ai-ticket-backend/node_modules/
+/ai-ticket-frontend/node_modules/
+
+.env
+
+*.log
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
