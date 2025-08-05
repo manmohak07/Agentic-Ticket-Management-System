@@ -1,6 +1,6 @@
 import React from 'react'
 
-function admin() {
+function Admin() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function admin() {
   )
 }
 
-export default admin
+export default Admin

@@ -1,6 +1,6 @@
 import React from 'react'
 
-function ticket() {
+function Ticket() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function ticket() {
   )
 }
 
-export default ticket
+export default Ticket
